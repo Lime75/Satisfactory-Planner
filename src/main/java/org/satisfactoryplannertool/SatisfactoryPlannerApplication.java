@@ -1,3 +1,4 @@
+package org.satisfactoryplannertool;
 
 public class SatisfactoryPlannerApplication {
 
